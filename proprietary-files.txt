@@ -583,6 +583,9 @@ vendor/lib/libmmcamera_ysl_s5k5e8_aux_sunny_ii.so
 vendor/lib/libmmcamera_ysl_s5k5e8_aux_sunny_ii_eeprom.so
 
 # Consumerir
+vendor/bin/hw/android.hardware.ir@1.0-service
+vendor/etc/init/android.hardware.ir@1.0-service.rc
+vendor/lib/hw/android.hardware.ir@1.0-impl.so
 vendor/lib/hw/consumerir.default.so:vendor/lib/hw/consumerir.msm8953.so
 
 # Fingerprint
