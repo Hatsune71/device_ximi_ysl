@@ -12,15 +12,12 @@ vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp
 vendor/etc/acdbdata/adsp_avs_config.acdb
 
 # Camera
-vendor/lib/libFaceGrade.so
-vendor/lib/libMiWatermark.so
 vendor/lib/libcapiv2svacnn.so
 vendor/lib/libcapiv2vop.so
 vendor/lib/libflash_pmic.so
 vendor/lib/libjpegdhw.so
 vendor/lib/libjpegdmahw.so
 vendor/lib/libjpegehw.so
-vendor/lib/libmibokeh_8953.so
 vendor/lib/libmmjpeg.so
 vendor/lib/libmmqjpeg_codec.so
 vendor/lib/libmmqjpegdma.so
@@ -33,7 +30,6 @@ vendor/lib/libremosaiclib.so
 vendor/lib/libvideoutils.so
 vendor/lib/libvidhance.so
 vendor/lib/libvidhance_gyro.so
-vendor/lib/mibokeh_8953_opencl.bin
 
 # Camera actuators
 vendor/lib/libactuator_ysl_imx486_ofilm_india_i_dw9714v.so
