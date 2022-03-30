@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
-  <item name="screen.on">75</item>
-  <item name="screen.full">255</item>
+  <item name="screen.on.display0">75</item>
+  <item name="screen.full.display0">255</item>
   <array name="cpu.speeds">
         <value>652800</value>
         <value>1036800</value>
