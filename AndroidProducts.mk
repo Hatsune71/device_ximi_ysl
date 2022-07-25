@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ysl.mk
+    $(LOCAL_DIR)/nad_ysl.mk
